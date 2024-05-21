@@ -28,6 +28,7 @@ $("#submitworkTask").on("click", function(e) {
       taskName: $("#taskName").val(),
       taskDescription: $("#taskDescription").val(),
     };
+    let data = JSON.stringify(newTask)
     $.post(TASKS_URL, newTask)
 })
 

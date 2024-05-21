@@ -3,22 +3,22 @@
     {
       "taskName": "Here's my task",
       "taskDescription": "Does it works?",
-      "id": "1"
+      "id": 1
     },
     {
       "taskName": "Here's a task",
       "taskDescription": "It works!",
-      "id": "2"
+      "id": 2
     },
     {
       "taskName": "Another task",
       "taskDescription": "Work It",
-      "id": "3"
+      "id": 3
     },
     {
       "taskName": "One More",
       "taskDescription": "For good measure",
-      "id": "5"
+      "id": 5
     }
   ]
 }
